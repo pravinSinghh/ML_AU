@@ -99,6 +99,3 @@ pip install pandas numpy scikit-learn matplotlib seaborn joblib
 - Add per-class precision/recall tracking across experiments
 - Validate on additional real-world data to test generalization
 
-## Author
-
-MCA Semester 2 ML Project
